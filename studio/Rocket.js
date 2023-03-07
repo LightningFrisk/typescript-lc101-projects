@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+exports.Rocket = void 0;
 var Rocket = /** @class */ (function () {
     // Constructor:
     // Parameter name should be a string.
@@ -69,3 +70,4 @@ var Rocket = /** @class */ (function () {
     };
     return Rocket;
 }());
+exports.Rocket = Rocket;

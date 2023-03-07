@@ -4,7 +4,7 @@ import { Astronaut } from './Astronaut';
 import { Cargo } from './Cargo';
 
 
-class Rocket {
+export class Rocket {
     // Properties:
     // name should be a string.
     // totalCapacityKg should be a number.
